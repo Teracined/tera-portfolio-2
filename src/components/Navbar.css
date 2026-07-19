@@ -1,0 +1,101 @@
+.nav {
+  position: fixed;
+  inset: 0 0 auto 0;
+  z-index: 50;
+  transition: background 0.28s var(--ease), box-shadow 0.28s var(--ease);
+}
+.nav--solid {
+  background: rgba(246, 247, 251, 0.72);
+  backdrop-filter: saturate(160%) blur(16px);
+  box-shadow: 0 1px 0 var(--line), 0 10px 30px rgba(13, 18, 38, 0.05);
+}
+
+/* Transparent state sits over the full-bleed video → use light text */
+.nav:not(.nav--solid) .nav__logo-text {
+  color: #fff;
+}
+.nav:not(.nav--solid) .nav__logo-text em {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.nav__inner {
+  height: 78px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.nav__logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.nav__logo-mark {
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  border-radius: 12px;
+  color: #fff;
+  font-weight: 800;
+  font-size: 20px;
+  background: var(--grad);
+  box-shadow: var(--shadow-glow);
+  overflow: hidden;
+}
+.nav__logo-mark img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+.nav__logo-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.05;
+  font-weight: 800;
+  font-size: 19px;
+  letter-spacing: -0.01em;
+}
+.nav__logo-text em {
+  font-style: normal;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  color: var(--ink-3);
+  margin-top: 3px;
+}
+
+.nav__links {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: 8px;
+}
+
+.nav__links .dock-outer {
+  margin: 0;
+}
+
+.nav__links .dock-panel {
+  padding-inline: 0;
+}
+
+.nav__links a {
+  text-decoration: none;
+}
+
+.nav__cta { padding: 11px 22px; font-size: 14px; }
+
+@media (max-width: 900px) {
+  .nav__cta { padding: 10px 16px; font-size: 13px; }
+}
+
+@media (max-width: 860px) {
+  .nav__links { display: none; }
+}
+
+@media (max-width: 700px) {
+  .nav__cta { display: none; }
+}

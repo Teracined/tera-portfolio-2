@@ -1,0 +1,272 @@
+/* ============================================================
+   Tera Portfolio · Design Tokens & Base
+   Light / high-end / relaxed / tech
+   ============================================================ */
+
+:root {
+  /* Surfaces — airy blue-tinted off-white (sampled from the river-city video) */
+  --bg: #f1f6fb;
+  --bg-soft: #e6eef6;
+  --surface: #ffffff;
+  --surface-2: #f6f9fc;
+
+  /* Ink — cool slate, picked from the video's deep blues */
+  --ink: #14222e;
+  --ink-2: #36505f;
+  --ink-3: #5e7888;
+  --ink-faint: #93aabb;
+  --line: rgba(20, 45, 70, 0.09);
+  --line-strong: rgba(20, 45, 70, 0.15);
+
+  /* Accents — sky-blue / hazy-blue / sand, from the cityscape */
+  --c1: #3f86bf; /* sky blue       */
+  --c2: #2f6690; /* deep river blue */
+  --c3: #8cc0dd; /* hazy light blue */
+  --c-coral: #c9a87a; /* warm sand / building beige */
+  --grad: linear-gradient(120deg, var(--c1), var(--c2) 55%, #5aa6cf);
+  --grad-soft: linear-gradient(120deg, rgba(63,134,191,.16), rgba(47,102,144,.16) 55%, rgba(140,192,221,.18));
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(16, 40, 64, 0.05), 0 2px 8px rgba(16, 40, 64, 0.05);
+  --shadow-md: 0 8px 24px rgba(16, 40, 64, 0.09), 0 2px 6px rgba(16, 40, 64, 0.05);
+  --shadow-lg: 0 24px 60px rgba(16, 44, 78, 0.16), 0 6px 18px rgba(16, 40, 64, 0.07);
+  --shadow-glow: 0 18px 50px rgba(63, 134, 191, 0.30);
+
+  /* Layout */
+  --maxw: 1700px;
+  --pad: clamp(24px, 4vw, 72px);
+  --radius: 22px;
+  --radius-lg: 32px;
+
+  /* Display serif for the oversized hero headline (travel-style) */
+  --font-display: "Playfair Display", "Times New Roman", Georgia,
+    "Songti SC", "Noto Serif SC", serif;
+
+  --font: "Inter", "PingFang SC", "HarmonyOS Sans SC", "Microsoft YaHei",
+    -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+/* Ambient page glows */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(60vw 60vw at 80% -10%, rgba(47, 102, 144, 0.10), transparent 60%),
+    radial-gradient(50vw 50vw at -10% 30%, rgba(63, 134, 191, 0.10), transparent 60%),
+    radial-gradient(45vw 45vw at 60% 110%, rgba(140, 192, 221, 0.10), transparent 60%);
+}
+
+a { color: inherit; text-decoration: none; }
+img { display: block; max-width: 100%; }
+button { font-family: inherit; cursor: pointer; }
+
+h1, h2, h3, h4, p { margin: 0; }
+
+/* ---------- Layout helpers ---------- */
+.container {
+  width: 100%;
+  max-width: var(--maxw);
+  margin-inline: auto;
+  padding-inline: var(--pad);
+  position: relative;
+  z-index: 1;
+}
+
+.section {
+  position: relative;
+  padding-block: clamp(80px, 9vw, 150px);
+  z-index: 1;
+}
+
+.section-display {
+  position: absolute;
+  top: clamp(18px, 2vw, 32px);
+  left: clamp(24px, 4vw, 72px);
+  z-index: 0;
+  font-size: clamp(72px, 12vw, 180px);
+  font-weight: 800;
+  line-height: 0.88;
+  letter-spacing: -0.06em;
+  text-transform: uppercase;
+  color: rgba(20, 34, 46, 0.06);
+  pointer-events: none;
+  user-select: none;
+}
+
+
+.motion-head,
+.motion-card,
+.motion-copy,
+.motion-media {
+  /* will-change 由 GSAP 运行时自动管理 — 静态声明会导致 GPU 合成层文字发虚 */
+}
+
+/* ---------- Section heading ---------- */
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--c2);
+}
+.eyebrow::before {
+  content: "";
+  width: 28px;
+  height: 2px;
+  border-radius: 2px;
+  background: var(--grad);
+}
+
+.section-title {
+  font-size: clamp(34px, 4vw, 60px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.08;
+  margin-top: 18px;
+}
+.section-sub {
+  margin-top: 16px;
+  max-width: 620px;
+  color: var(--ink-3);
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.grad-text {
+  background: var(--grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* ---------- Buttons ---------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 26px;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 15px;
+  border: 1px solid transparent;
+  transition: transform 0.4s var(--ease), box-shadow 0.4s var(--ease),
+    background 0.3s, color 0.3s;
+}
+.btn-primary {
+  color: #fff;
+  background: var(--grad);
+  background-size: 160% 160%;
+  box-shadow: var(--shadow-glow);
+}
+.btn-primary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 24px 60px rgba(91, 141, 239, 0.4);
+}
+.btn-ghost {
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.6);
+  border-color: var(--line-strong);
+  backdrop-filter: blur(8px);
+}
+.btn-ghost:hover {
+  transform: translateY(-3px);
+  border-color: var(--c2);
+  color: var(--c2);
+}
+
+/* ---------- Cards ---------- */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+}
+
+/* ---------- Scroll reveal ---------- */
+.reveal {
+  opacity: 0;
+  transform: translateY(34px);
+  transition: opacity 0.9s var(--ease), transform 0.9s var(--ease);
+  transition-delay: var(--delay, 0ms);
+}
+.reveal.in {
+  opacity: 1;
+  transform: none;
+}
+
+::selection {
+  background: rgba(139, 92, 246, 0.18);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 11px; }
+::-webkit-scrollbar-track { background: var(--bg-soft); }
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(var(--c1), var(--c2));
+  border-radius: 999px;
+  border: 3px solid var(--bg-soft);
+}
+
+/* ---------- Mobile Baseline ---------- */
+@media (max-width: 640px) {
+  .section {
+    padding-block: clamp(60px, 12vw, 100px);
+  }
+  .section-title {
+    font-size: clamp(28px, 7vw, 40px);
+    margin-top: 12px;
+  }
+  .section-sub {
+    font-size: 15px;
+    max-width: 100%;
+  }
+  .section-display {
+    top: 4px;
+    left: var(--pad);
+    font-size: clamp(40px, 16vw, 72px);
+  }
+  .eyebrow {
+    font-size: 11px;
+    gap: 8px;
+  }
+  .eyebrow::before {
+    width: 20px;
+  }
+  .btn {
+    padding: 12px 22px;
+    font-size: 14px;
+  }
+  .container {
+    padding-inline: clamp(16px, 5vw, 32px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

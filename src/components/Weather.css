@@ -1,0 +1,52 @@
+.weather {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink-2);
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(20, 45, 70, 0.08);
+  white-space: nowrap;
+  transition: background 0.25s, color 0.25s, border-color 0.25s;
+}
+.weather:hover {
+  background: rgba(255, 255, 255, 0.72);
+  border-color: rgba(140, 192, 221, 0.32);
+}
+
+.weather--loading {
+  min-width: 80px;
+  opacity: 0.4;
+}
+
+.weather__icon { font-size: 17px; line-height: 1; }
+.weather__temp { color: var(--ink); }
+.weather__desc {
+  font-weight: 500;
+  color: var(--ink-3);
+  font-size: 13px;
+}
+
+/* Transparent hero state */
+.nav:not(.nav--solid) .weather {
+  color: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.2);
+}
+.nav:not(.nav--solid) .weather:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.16);
+  border-color: rgba(255, 255, 255, 0.35);
+}
+.nav:not(.nav--solid) .weather__temp { color: #fff; }
+.nav:not(.nav--solid) .weather__desc { color: rgba(255, 255, 255, 0.75); }
+
+@media (max-width: 860px) {
+  .weather__desc { display: none; }
+}
+@media (max-width: 600px) {
+  .weather { padding: 5px 10px; gap: 5px; }
+}

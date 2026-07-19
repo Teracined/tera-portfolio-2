@@ -1,0 +1,794 @@
+
+> tera-portfolio@0.1.0 dev
+> vite
+
+Port 5173 is in use, trying another one...
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m557[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5174[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m16:50:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx[22m
+[2m16:51:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.css[22m
+[2m16:51:40[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.css[22m
+[2m16:52:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.css[22m
+[2m16:57:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx[22m
+[2m16:57:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx[22m
+[2m16:57:56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m16:58:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m16:58:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m16:58:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.css[22m
+[2m16:59:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.css[22m
+[2m17:09:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m17:09:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m17:09:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m17:27:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m17:27:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m17:27:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m17:28:02[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m17:28:10[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m17:28:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m17:28:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m17:28:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.css[22m
+[2m17:29:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m17:44:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m17:44:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m17:44:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m17:44:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m17:44:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m17:44:58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m17:45:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m17:45:29[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.css[22m
+[2m17:45:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m17:49:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m19:46:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m19:46:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m19:46:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m19:47:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.css[22m
+[2m19:47:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.css[22m
+[2m19:56:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m20:03:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m20:26:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:26:57[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:27:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:27:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m20:27:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m20:27:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m20:28:07[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m20:28:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m20:28:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m20:36:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m20:36:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m20:52:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m20:52:58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:53:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:54:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:54:47[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m20:56:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m20:57:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m21:25:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m21:26:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m21:26:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m21:26:44[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m21:26:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m21:27:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m21:27:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m21:27:36[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m21:57:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m21:57:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m22:05:09[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m22:42:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx[22m
+[2m22:42:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m22:43:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m22:43:33[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m22:43:57[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m23:34:09[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/components/Strengths.jsx, /src/components/Hero.jsx, /src/components/Contact.jsx, /src/components/About.jsx, /src/components/Projects.jsx[22m
+[2m23:34:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/components/Strengths.jsx, /src/components/Hero.jsx, /src/components/Contact.jsx, /src/components/About.jsx, /src/components/Projects.jsx[22m
+[2m23:35:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m23:35:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m23:35:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m23:36:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:08:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:09:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m00:09:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m00:09:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:10:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:16:38[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:16:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:17:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:17:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:18:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:24:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m00:25:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx[22m
+[2m00:25:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx[22m
+[2m00:26:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:26:29[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:26:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:27:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:27:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:27:57[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:28:19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:28:40[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:28:58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:29:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:29:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:30:07[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:30:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:30:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:31:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m00:31:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m00:32:09[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m00:32:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m00:33:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m00:33:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m00:34:19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.css[22m
+[2m00:34:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m00:35:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m00:36:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m00:36:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:36:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.css[22m
+[2m00:37:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m00:39:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m00:39:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:40:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.css[22m
+[2m00:40:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m00:41:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m00:55:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m01:00:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m01:01:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+[2m19:47:35[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "motion/react" from "src/components/Dock.jsx". Does the file exist?
+[2m19:47:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.css[22m
+[2m19:48:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m19:48:27[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mmotion/react[32m[39m
+[2m19:48:27[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m19:53:48[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Dock.jsx[22m
+[2m19:54:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Dock.jsx[22m
+[2m19:54:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Dock.jsx[22m
+[2m19:54:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Dock.css[22m
+[2m19:54:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Dock.css[22m
+[2m19:56:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m19:57:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Dock.jsx[22m
+[2m19:57:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Dock.css[22m
+[2m20:03:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m20:03:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Dock.jsx[22m
+[2m20:04:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Dock.css[22m
+[2m20:26:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:26:43[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:26:43[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/GlowCard.jsx[39m:2:21
+[33m  17 |  var _s = $RefreshSig$();
+  18 |  import { useRef, useEffect } from "react";
+  19 |  import { gsap } from "gsap";
+     |                        ^
+  20 |  import "./GlowCard.css";
+  21 |  const MOBILE_BREAKPOINT = 768;[39m
+      at TransformPluginContext._formatError (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+[2m20:26:57[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:26:57[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:26:57[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/GlowCard.jsx[39m:2:21
+[33m  17 |  var _s = $RefreshSig$();
+  18 |  import { useRef, useEffect } from "react";
+  19 |  import { gsap } from "gsap";
+     |                        ^
+  20 |  import "./GlowCard.css";
+  21 |  const MOBILE_BREAKPOINT = 768;[39m
+      at TransformPluginContext._formatError (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+[2m20:26:57[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:26:57[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:27:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:27:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:27:14[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:27:14[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/GlowCard.jsx[39m:2:21
+[33m  17 |  var _s = $RefreshSig$();
+  18 |  import { useRef, useEffect } from "react";
+  19 |  import { gsap } from "gsap";
+     |                        ^
+  20 |  import "./GlowCard.css";
+  21 |  const MOBILE_BREAKPOINT = 768;[39m
+      at TransformPluginContext._formatError (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+[2m20:27:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:27:25[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:27:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m20:27:25[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/GlowCard.jsx[39m:2:21
+[33m  17 |  var _s = $RefreshSig$();
+  18 |  import { useRef, useEffect } from "react";
+  19 |  import { gsap } from "gsap";
+     |                        ^
+  20 |  import "./GlowCard.css";
+  21 |  const MOBILE_BREAKPOINT = 768;[39m
+      at TransformPluginContext._formatError (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+[2m20:27:25[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:27:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx, /src/components/Projects.jsx[22m
+[2m20:27:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m20:27:39[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\CC OUTput\tera-portfolio\src\components\Projects.jsx: Expected corresponding JSX closing tag for <GlowCard>. (60:12)
+
+[0m [90m 58 |[31m                 [33m<[31m[33mIcon[31m name[33m=[31m[32m"arrow"[31m size[33m=[31m{[35m18[31m} [33m/[31m[33m>[31m
+ [90m 59 |[31m               [33m<[31m[33m/[31m[33mspan[31m[33m>[31m
+[31m[1m>[22m[31m[90m 60 |[31m             [33m<[31m[33m/[31m[33marticle[31m[33m>[31m
+ [90m    |[31m             [31m[1m^[22m[31m
+ [90m 61 |[31m           ))}
+ [90m 62 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 63 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/Projects.jsx[39m:60:12
+[33m  58 |                  <Icon name="arrow" size={18} />
+  59 |                </span>
+  60 |              </article>
+     |              ^
+  61 |            ))}
+  62 |          </div>[39m
+      at constructor (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.jsxParseElementAt (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4739:16)
+      at JSXParserMixin.jsxParseElement (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4761:17)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4771:19)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11692:28)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at JSXParserMixin.parseFunctionBody (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12110:24)
+      at JSXParserMixin.parseArrowExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12092:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11704:12)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseExprListItem (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12192:18)
+      at JSXParserMixin.parseCallExpressionArguments (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11269:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+[2m20:27:39[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\CC OUTput\tera-portfolio\src\components\Projects.jsx: Expected corresponding JSX closing tag for <GlowCard>. (60:12)
+
+[0m [90m 58 |[31m                 [33m<[31m[33mIcon[31m name[33m=[31m[32m"arrow"[31m size[33m=[31m{[35m18[31m} [33m/[31m[33m>[31m
+ [90m 59 |[31m               [33m<[31m[33m/[31m[33mspan[31m[33m>[31m
+[31m[1m>[22m[31m[90m 60 |[31m             [33m<[31m[33m/[31m[33marticle[31m[33m>[31m
+ [90m    |[31m             [31m[1m^[22m[31m
+ [90m 61 |[31m           ))}
+ [90m 62 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 63 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/Projects.jsx[39m:60:12
+[33m  58 |                  <Icon name="arrow" size={18} />
+  59 |                </span>
+  60 |              </article>
+     |              ^
+  61 |            ))}
+  62 |          </div>[39m
+      at constructor (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.jsxParseElementAt (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4739:16)
+      at JSXParserMixin.jsxParseElement (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4761:17)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4771:19)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11692:28)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at JSXParserMixin.parseFunctionBody (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12110:24)
+      at JSXParserMixin.parseArrowExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12092:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11704:12)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseExprListItem (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12192:18)
+      at JSXParserMixin.parseCallExpressionArguments (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11269:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+[2m20:27:39[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:27:39[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/GlowCard.jsx[39m:2:21
+[33m  17 |  var _s = $RefreshSig$();
+  18 |  import { useRef, useEffect } from "react";
+  19 |  import { gsap } from "gsap";
+     |                        ^
+  20 |  import "./GlowCard.css";
+  21 |  const MOBILE_BREAKPOINT = 768;[39m
+      at TransformPluginContext._formatError (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+[2m20:27:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx, /src/components/Projects.jsx[22m
+[2m20:27:53[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\CC OUTput\tera-portfolio\src\components\Projects.jsx: Expected corresponding JSX closing tag for <GlowCard>. (60:12)
+
+[0m [90m 58 |[31m                 [33m<[31m[33mIcon[31m name[33m=[31m[32m"arrow"[31m size[33m=[31m{[35m18[31m} [33m/[31m[33m>[31m
+ [90m 59 |[31m               [33m<[31m[33m/[31m[33mspan[31m[33m>[31m
+[31m[1m>[22m[31m[90m 60 |[31m             [33m<[31m[33m/[31m[33marticle[31m[33m>[31m
+ [90m    |[31m             [31m[1m^[22m[31m
+ [90m 61 |[31m           ))}
+ [90m 62 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 63 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/Projects.jsx[39m:60:12
+[33m  58 |                  <Icon name="arrow" size={18} />
+  59 |                </span>
+  60 |              </article>
+     |              ^
+  61 |            ))}
+  62 |          </div>[39m
+      at constructor (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.jsxParseElementAt (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4739:16)
+      at JSXParserMixin.jsxParseElement (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4761:17)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4771:19)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11692:28)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at JSXParserMixin.parseFunctionBody (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12110:24)
+      at JSXParserMixin.parseArrowExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12092:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11704:12)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseExprListItem (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12192:18)
+      at JSXParserMixin.parseCallExpressionArguments (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11269:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+[2m20:27:53[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:27:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m20:27:53[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/GlowCard.jsx[39m:2:21
+[33m  17 |  var _s = $RefreshSig$();
+  18 |  import { useRef, useEffect } from "react";
+  19 |  import { gsap } from "gsap";
+     |                        ^
+  20 |  import "./GlowCard.css";
+  21 |  const MOBILE_BREAKPOINT = 768;[39m
+      at TransformPluginContext._formatError (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+[2m20:27:53[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:28:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx, /src/components/Projects.jsx[22m
+[2m20:28:07[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m20:28:07[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:28:07[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:28:07[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:28:07[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/GlowCard.jsx[39m:2:21
+[33m  17 |  var _s = $RefreshSig$();
+  18 |  import { useRef, useEffect } from "react";
+  19 |  import { gsap } from "gsap";
+     |                        ^
+  20 |  import "./GlowCard.css";
+  21 |  const MOBILE_BREAKPOINT = 768;[39m
+      at TransformPluginContext._formatError (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+[2m20:28:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx, /src/components/Projects.jsx, /src/components/Strengths.jsx[22m
+[2m20:28:21[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:28:21[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:28:21[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:28:21[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/GlowCard.jsx[39m:2:21
+[33m  17 |  var _s = $RefreshSig$();
+  18 |  import { useRef, useEffect } from "react";
+  19 |  import { gsap } from "gsap";
+     |                        ^
+  20 |  import "./GlowCard.css";
+  21 |  const MOBILE_BREAKPOINT = 768;[39m
+      at TransformPluginContext._formatError (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+[2m20:28:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m20:28:21[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\CC OUTput\tera-portfolio\src\components\Strengths.jsx: Expected corresponding JSX closing tag for <GlowCard>. (36:12)
+
+[0m [90m 34 |[31m               [33m<[31m[33mp[31m className[33m=[31m[32m"strength__desc"[31m[33m>[31m{s[33m.[31mdesc}[33m<[31m[33m/[31m[33mp[31m[33m>[31m
+ [90m 35 |[31m               [33m<[31m[33mspan[31m className[33m=[31m[32m"strength__no"[31m[33m>[31m[35m0[31m{i [33m+[31m [35m1[31m}[33m<[31m[33m/[31m[33mspan[31m[33m>[31m
+[31m[1m>[22m[31m[90m 36 |[31m             [33m<[31m[33m/[31m[33marticle[31m[33m>[31m
+ [90m    |[31m             [31m[1m^[22m[31m
+ [90m 37 |[31m           ))}
+ [90m 38 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 39 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/Strengths.jsx[39m:36:12
+[33m  34 |                <p className="strength__desc">{s.desc}</p>
+  35 |                <span className="strength__no">0{i + 1}</span>
+  36 |              </article>
+     |              ^
+  37 |            ))}
+  38 |          </div>[39m
+      at constructor (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.jsxParseElementAt (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4739:16)
+      at JSXParserMixin.jsxParseElement (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4761:17)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4771:19)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11692:28)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at JSXParserMixin.parseFunctionBody (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12110:24)
+      at JSXParserMixin.parseArrowExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12092:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11704:12)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseExprListItem (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12192:18)
+      at JSXParserMixin.parseCallExpressionArguments (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11269:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+[2m20:28:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx, /src/components/Projects.jsx, /src/components/Strengths.jsx[22m
+[2m20:28:32[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:28:32[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:28:32[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\CC OUTput\tera-portfolio\src\components\Strengths.jsx: Expected corresponding JSX closing tag for <GlowCard>. (36:12)
+
+[0m [90m 34 |[31m               [33m<[31m[33mp[31m className[33m=[31m[32m"strength__desc"[31m[33m>[31m{s[33m.[31mdesc}[33m<[31m[33m/[31m[33mp[31m[33m>[31m
+ [90m 35 |[31m               [33m<[31m[33mspan[31m className[33m=[31m[32m"strength__no"[31m[33m>[31m[35m0[31m{i [33m+[31m [35m1[31m}[33m<[31m[33m/[31m[33mspan[31m[33m>[31m
+[31m[1m>[22m[31m[90m 36 |[31m             [33m<[31m[33m/[31m[33marticle[31m[33m>[31m
+ [90m    |[31m             [31m[1m^[22m[31m
+ [90m 37 |[31m           ))}
+ [90m 38 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 39 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/Strengths.jsx[39m:36:12
+[33m  34 |                <p className="strength__desc">{s.desc}</p>
+  35 |                <span className="strength__no">0{i + 1}</span>
+  36 |              </article>
+     |              ^
+  37 |            ))}
+  38 |          </div>[39m
+      at constructor (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.jsxParseElementAt (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4739:16)
+      at JSXParserMixin.jsxParseElement (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4761:17)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4771:19)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11692:28)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at JSXParserMixin.parseFunctionBody (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12110:24)
+      at JSXParserMixin.parseArrowExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12092:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11704:12)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseExprListItem (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:12192:18)
+      at JSXParserMixin.parseCallExpressionArguments (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11269:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\CC OUTput\tera-portfolio\node_modules\@babel\parser\lib\index.js:11063:23)
+[2m20:28:32[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/CC OUTput/tera-portfolio/src/components/GlowCard.jsx[39m:2:21
+[33m  17 |  var _s = $RefreshSig$();
+  18 |  import { useRef, useEffect } from "react";
+  19 |  import { gsap } from "gsap";
+     |                        ^
+  20 |  import "./GlowCard.css";
+  21 |  const MOBILE_BREAKPOINT = 768;[39m
+      at TransformPluginContext._formatError (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///D:/CC%20OUTput/tera-portfolio/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+[2m20:28:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m20:28:32[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to resolve import "gsap" from "src/components/GlowCard.jsx". Does the file exist?
+[2m20:29:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx, /src/components/Projects.jsx, /src/components/Strengths.jsx[22m
+[2m20:29:40[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mgsap[32m[39m
+[2m20:29:40[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m20:35:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/GlowCard.css[22m
+[2m20:35:44[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/GlowCard.jsx[22m
+[2m20:36:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m20:36:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m20:41:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/GlowCard.jsx[22m
+[2m20:41:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/GlowCard.jsx[22m
+[2m20:44:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/GlowCard.jsx[22m
+[2m20:45:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/GlowCard.jsx[22m
+[2m20:45:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/GlowCard.jsx[22m
+[2m20:52:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx[22m
+[2m20:52:58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:53:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:54:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m20:54:47[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m20:56:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m20:57:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m21:25:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m21:26:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m21:26:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m21:26:44[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m21:26:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m21:27:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m21:27:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m21:27:36[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m21:57:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m21:57:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m22:05:09[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m22:42:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx[22m
+[2m22:42:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m22:43:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m22:43:33[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m22:43:57[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m23:34:09[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/components/About.jsx, /src/components/Hero.jsx, /src/components/Strengths.jsx, /src/components/Contact.jsx, /src/components/Projects.jsx[22m
+[2m23:34:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/components/About.jsx, /src/components/Hero.jsx, /src/components/Strengths.jsx, /src/components/Contact.jsx, /src/components/Projects.jsx[22m
+[2m23:35:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m23:35:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m23:35:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m23:36:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:08:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:09:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m00:09:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m00:09:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:10:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:16:38[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:16:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:17:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:17:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:18:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:24:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m00:24:55[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mgsap/ScrollTrigger[32m[39m
+[2m00:24:55[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m00:25:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx[22m
+[2m00:25:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx[22m
+[2m00:26:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:26:29[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:26:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:27:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:27:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:27:57[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:28:19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:28:40[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:28:58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:29:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m00:29:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:30:07[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:30:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:30:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m00:31:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m00:31:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx[22m
+[2m00:32:09[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m00:32:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m00:33:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m00:33:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m00:34:19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.css[22m
+[2m00:34:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m00:35:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m00:36:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m00:36:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:36:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.css[22m
+[2m00:37:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m00:39:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.css[22m
+[2m00:39:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.css[22m
+[2m00:40:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.css[22m
+[2m00:40:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m00:41:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m00:47:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m00:47:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m00:47:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m00:48:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m00:48:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m00:55:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx[22m
+[2m01:00:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m
+[2m01:01:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.css[22m

@@ -1,0 +1,54 @@
+.glow-card {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  --glow-x: 50%;
+  --glow-y: 50%;
+  --glow-intensity: 0;
+  --glow-radius: 180px;
+}
+
+.glow-card__bg {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  z-index: 0;
+  opacity: calc(var(--glow-intensity) * 0.8);
+  background: radial-gradient(
+    calc(var(--glow-radius) * 0.66) circle at var(--glow-x) var(--glow-y),
+    rgba(var(--glow-color), 0.1),
+    transparent 60%
+  );
+}
+
+.glow-card__border {
+  position: absolute;
+  inset: 0;
+  padding: 1px;
+  border-radius: inherit;
+  pointer-events: none;
+  z-index: 4;
+  background: radial-gradient(
+    var(--glow-radius) circle at var(--glow-x) var(--glow-y),
+    rgba(var(--glow-color), calc(var(--glow-intensity) * 0.9)) 0%,
+    rgba(var(--glow-color), calc(var(--glow-intensity) * 0.34)) 24%,
+    rgba(var(--glow-color), calc(var(--glow-intensity) * 0.12)) 42%,
+    transparent 68%
+  );
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  transition: opacity 0.25s ease;
+}
+
+.glow-card__content {
+  position: relative;
+  z-index: 2;
+  display: contents;
+}
