@@ -1,0 +1,113 @@
+/* ---------- 证书查看弹窗 ---------- */
+.cert-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1150;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+  background: rgba(8, 10, 20, 0.84);
+  backdrop-filter: blur(14px);
+  animation: cert-fade 0.28s var(--ease, ease);
+}
+
+@keyframes cert-fade {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.cert-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  max-height: 100%;
+  animation: cert-pop 0.36s var(--ease, cubic-bezier(0.22, 1, 0.36, 1));
+}
+
+@keyframes cert-pop {
+  from { opacity: 0; transform: translateY(18px) scale(0.97); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* 竖版长图：以高度为准自适应，避免超出视口 */
+.cert-frame {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 0;
+  border-radius: 14px;
+  background: #fff;
+  padding: 8px;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6);
+}
+
+.cert-image {
+  display: block;
+  max-width: min(88vw, 760px);
+  max-height: calc(100vh - 160px);
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.cert-meta {
+  text-align: center;
+  max-width: 640px;
+}
+
+.cert-title {
+  margin: 0;
+  font-size: 17px;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: -0.01em;
+}
+
+.cert-subtitle {
+  margin: 6px 0 0;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.62);
+  letter-spacing: 0.03em;
+  line-height: 1.6;
+}
+
+.cert-close {
+  position: fixed;
+  top: 24px;
+  right: 28px;
+  z-index: 1151;
+  width: 46px;
+  height: 46px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  font-size: 26px;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.25s, transform 0.35s var(--ease, ease);
+}
+.cert-close:hover {
+  background: rgba(255, 255, 255, 0.22);
+  transform: rotate(90deg);
+}
+.cert-close:focus-visible {
+  outline: 2px solid rgba(255, 255, 255, 0.5);
+  outline-offset: 2px;
+}
+
+@media (max-width: 620px) {
+  .cert-overlay { padding: 16px; }
+  .cert-close { top: 14px; right: 14px; width: 40px; height: 40px; }
+  .cert-image { max-width: 94vw; max-height: calc(100vh - 130px); }
+  .cert-title { font-size: 15px; }
+}

@@ -10,8 +10,19 @@
 npm install
 npm run dev      # 启动开发服务器（默认 http://localhost:5173）
 npm run build    # 生产构建，输出到 dist/
-npm run preview  # 预览生产构建
+npm preview      # 预览生产构建
 ```
+
+## 打开项目
+
+每次打开此项目时，定位到 `D:\CC OUTput\tera-portfolio-2` 运行：
+
+```bash
+cd "D:\CC OUTput\tera-portfolio-2"
+npm run dev
+```
+
+浏览器打开 http://localhost:5173 即可预览。
 
 ## 页面结构
 

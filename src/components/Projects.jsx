@@ -4,6 +4,7 @@ import { projects, categories } from '../data/content'
 import GlowCard from './GlowCard'
 import Icon from './Icon'
 import GalleryModal from './GalleryModal'
+import CertificateModal from './CertificateModal'
 import './Projects.css'
 
 function getRelativeOffset(index, activeIndex, total) {
@@ -31,6 +32,7 @@ export default function Projects() {
   const [direction, setDirection] = useState('next')
   const [preview, setPreview] = useState(null)
   const [gallery, setGallery] = useState(null)
+  const [certificate, setCertificate] = useState(null)
 
   const filteredProjects = useMemo(
     () => projects.filter((p) => p.category === activeCategory),
@@ -56,13 +58,15 @@ export default function Projects() {
 
   const closePreview = useCallback(() => setPreview(null), [])
   const closeGallery = useCallback(() => setGallery(null), [])
+  const closeCertificate = useCallback(() => setCertificate(null), [])
 
   useEffect(() => {
-    if (!preview && !gallery) return
+    if (!preview && !gallery && !certificate) return
     const onKey = (e) => {
       if (e.key === 'Escape') {
         if (preview) closePreview()
         if (gallery) closeGallery()
+        if (certificate) closeCertificate()
       }
     }
     document.addEventListener('keydown', onKey)
@@ -71,7 +75,7 @@ export default function Projects() {
       document.removeEventListener('keydown', onKey)
       document.body.style.overflow = ''
     }
-  }, [preview, gallery, closePreview, closeGallery])
+  }, [preview, gallery, certificate, closePreview, closeGallery, closeCertificate])
 
   const handleSlideClick = (event, index, offset) => {
     if (index === activeIndex) {
@@ -260,6 +264,22 @@ export default function Projects() {
                                   查看摄影作品 <Icon name="arrow" size={14} />
                                 </span>
                               ) : null}
+                              {p.certificate ? (
+                                <button
+                                  type="button"
+                                  className="project__view-link project__view-link--cert"
+                                  onClick={(event) => {
+                                    event.preventDefault()
+                                    event.stopPropagation()
+                                    setCertificate(p)
+                                  }}
+                                  onKeyDown={(event) => event.stopPropagation()}
+                                  aria-label={`查看${p.title}获奖证书`}
+                                >
+                                  {p.certificateLabel || '证书查看'}
+                                  <Icon name="arrow" size={14} />
+                                </button>
+                              ) : null}
                               <GlowCard
                                 as="span"
                                 className="project__period project__period-card"
@@ -339,6 +359,16 @@ export default function Projects() {
           images={gallery.gallery}
           title={gallery.title}
           onClose={closeGallery}
+        />,
+        document.body
+      ) : null}
+
+      {certificate ? createPortal(
+        <CertificateModal
+          src={certificate.certificate}
+          title={certificate.title}
+          subtitle={certificate.metric}
+          onClose={closeCertificate}
         />,
         document.body
       ) : null}
